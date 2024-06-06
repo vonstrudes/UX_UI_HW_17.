@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    color: white; 
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+footer ul {
+    width: auto;
+    margin-left: 0;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+    background-image: "/Users/noah/Desktop/IMG_5882.png";
+    background-size: cover;
+    background-position: center;
+
+}
+
+footer {
+    background-color: #373738;
+    padding: 20px;
+    text-align: center;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+}
+
+footer li {
+    padding: 10px 20px;
+}
